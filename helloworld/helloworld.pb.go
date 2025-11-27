@@ -124,8 +124,7 @@ const file_helloworld_helloworld_proto_rawDesc = "" +
 	"\amessage\x18\x01 \x01(\tR\amessage2\x8e\x01\n" +
 	"\aGreeter\x12>\n" +
 	"\bSayHello\x12\x18.helloworld.HelloRequest\x1a\x16.helloworld.HelloReply\"\x00\x12C\n" +
-	"\rSayHelloAgain\x12\x18.helloworld.HelloRequest\x1a\x16.helloworld.HelloReply\"\x00Bg\n" +
-	"\x1bio.grpc.examples.helloworldB\x0fHelloWorldProtoP\x01Z5google.golang.org/grpc/examples/helloworld/helloworldb\x06proto3"
+	"\rSayHelloAgain\x12\x18.helloworld.HelloRequest\x1a\x16.helloworld.HelloReply\"\x00B@Z>github.com/ChethiyaNishanath/grpc-server/helloworld/helloworldb\x06proto3"
 
 var (
 	file_helloworld_helloworld_proto_rawDescOnce sync.Once
